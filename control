@@ -1,0 +1,9 @@
+Package: se.nosskirneh.icabankennocarousel
+Name: ICABankenNoCarousel
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Disables the carousel on login screen
+Maintainer: Andreas Henriksson
+Author: Andreas Henriksson
+Section: Tweaks
